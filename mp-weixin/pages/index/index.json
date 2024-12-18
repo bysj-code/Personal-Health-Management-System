@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#FFB296",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "个人健康管理系统小程序首页",
+  "usingComponents": {
+    "uni-icons": "/components/uni-ui/lib/uni-icons/uni-icons"
+  }
+}

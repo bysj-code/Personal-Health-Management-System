@@ -1,0 +1,483 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	},{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	},{
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+		},
+		{
+		"path": "pages/changepassword/changepassword",
+		"style": {
+		"navigationBarBackgroundColor": "#FFB296",
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "修改密码"
+			}
+		},
+		{
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	},{
+		"path": "pages/user-info/userinfo",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+
+       ,{
+		"path": "pages/forum/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "全部发帖"
+		}
+	},{
+		"path": "pages/forum/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发帖详情"
+		}
+	},{
+		"path": "pages/forum/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发帖"
+		}
+	},{
+		"path": "pages/forum/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发贴(修改/新增)"
+		}
+	}
+	,{
+		"path": "pages/gerentizheng/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "体检记录展示"
+		}
+	},{
+		"path": "pages/gerentizheng/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的体检记录"
+		}
+	},{
+		"path": "pages/gerentizheng/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "体检记录添加/修改"
+		}
+	},{
+		"path": "pages/gerentizheng/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "体检记录详情"
+		}
+	}
+	,{
+		"path": "pages/jiankangtieshi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康贴士展示"
+		}
+	},{
+		"path": "pages/jiankangtieshi/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的健康贴士"
+		}
+	},{
+		"path": "pages/jiankangtieshi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康贴士添加/修改"
+		}
+	},{
+		"path": "pages/jiankangtieshi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康贴士详情"
+		}
+	}
+	,{
+		"path": "pages/meirijihua/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "每日计划展示"
+		}
+	},{
+		"path": "pages/meirijihua/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的每日计划"
+		}
+	},{
+		"path": "pages/meirijihua/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "每日计划添加/修改"
+		}
+	},{
+		"path": "pages/meirijihua/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "每日计划详情"
+		}
+	}
+	,{
+		"path": "pages/meishi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康食谱展示"
+		}
+	},{
+		"path": "pages/meishi/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的健康食谱"
+		}
+	},{
+		"path": "pages/meishi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康食谱添加/修改"
+		}
+	},{
+		"path": "pages/meishi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康食谱详情"
+		}
+	}
+	,{
+		"path": "pages/meishiCollection/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康食谱收藏展示"
+		}
+	},{
+		"path": "pages/meishiCollection/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的健康食谱收藏"
+		}
+	},{
+		"path": "pages/meishiCollection/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康食谱收藏添加/修改"
+		}
+	},{
+		"path": "pages/meishiCollection/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康食谱收藏详情"
+		}
+	}
+	,{
+		"path": "pages/meishiLiuyan/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康食谱留言展示"
+		}
+	},{
+		"path": "pages/meishiLiuyan/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的健康食谱留言"
+		}
+	},{
+		"path": "pages/meishiLiuyan/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康食谱留言添加/修改"
+		}
+	},{
+		"path": "pages/meishiLiuyan/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "健康食谱留言详情"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息展示"
+		}
+	},{
+		"path": "pages/news/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的公告信息"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息添加/修改"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息详情"
+		}
+	}
+	,{
+		"path": "pages/yaopin/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "药品信息展示"
+		}
+	},{
+		"path": "pages/yaopin/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的药品信息"
+		}
+	},{
+		"path": "pages/yaopin/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "药品信息添加/修改"
+		}
+	},{
+		"path": "pages/yaopin/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "药品信息详情"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户展示"
+		}
+	},{
+		"path": "pages/yonghu/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的用户"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户添加/修改"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户详情"
+		}
+	}
+	,{
+		"path": "pages/yundong/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "运动教程展示"
+		}
+	},{
+		"path": "pages/yundong/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的运动教程"
+		}
+	},{
+		"path": "pages/yundong/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "运动教程添加/修改"
+		}
+	},{
+		"path": "pages/yundong/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "运动教程详情"
+		}
+	}
+	,{
+		"path": "pages/yundongCollection/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "运动教程收藏展示"
+		}
+	},{
+		"path": "pages/yundongCollection/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的运动教程收藏"
+		}
+	},{
+		"path": "pages/yundongCollection/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "运动教程收藏添加/修改"
+		}
+	},{
+		"path": "pages/yundongCollection/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "运动教程收藏详情"
+		}
+	}
+	,{
+		"path": "pages/yundongLiuyan/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "运动教程留言展示"
+		}
+	},{
+		"path": "pages/yundongLiuyan/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的运动教程留言"
+		}
+	},{
+		"path": "pages/yundongLiuyan/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "运动教程留言添加/修改"
+		}
+	},{
+		"path": "pages/yundongLiuyan/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "运动教程留言详情"
+		}
+	}
+			,{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#FFB296",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "个人健康管理系统小程序首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "个人健康管理系统小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#fff",
+		"borderStyle": "black",
+		"backgroundColor": "#5FAED0",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			,{
+				"pagePath": "pages/meishi/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "健康食谱"
+			}
+			,{
+				"pagePath": "pages/yundong/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "运动教程"
+			}
+			,{
+			 	"pagePath": "pages/forum/forum-index",
+				"iconPath": "static/tabs/order.png",
+			 	"selectedIconPath": "static/tabs/order1.png",
+				"text": "论坛"
+			}
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+	// "permission": {
+	// 	"scope.userLocation": {
+	// 		"desc": ""
+	// 	}
+	// },
+	// "requiredPrivateInfos": ["getLocation", "chooseLocation"]
+}
